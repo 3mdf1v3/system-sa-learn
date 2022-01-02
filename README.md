@@ -1,3 +1,2 @@
 # system-sa-learn
-Spamassassin bayesian database update
-Source db http://untroubled.org/spam/
+Spamassassin bayesian database update from source db http://untroubled.org/spam/
