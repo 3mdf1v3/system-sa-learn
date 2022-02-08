@@ -3,7 +3,7 @@ CURDATE=$(date +"%Y-%m")
 # CURDATE='2021-07'
 YY=${CURDATE:0:4}
 MM=${CURDATE:5:2}
-SPAMUPDATEDST='/home/ldisilverio'
+SPAMUPDATEDST='/home/3mdf1v3'
 SPAMFILEDST="${SPAMUPDATEDST}/${CURDATE}.7z" 
 
 wget http://untroubled.org/spam/${CURDATE}.7z -P ${SPAMUPDATEDST}
